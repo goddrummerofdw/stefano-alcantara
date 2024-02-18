@@ -1,3 +1,3 @@
 ## Getting Started
 
-Stefano's Site# stefano-alcantara
+Stefano's Site
